@@ -55,23 +55,23 @@
 ## 📖 **페이지별 기능**
 <details>
 <summary>여행 취향 테스트</summary>  
-<img src="docs/project_image/test.png" height="400">
+<img src="Docs/project_image/test.png" height="400">
 </details>
 
 <details>
 <summary>랜덤 여행지 추천</summary>  
-<img src="docs/project_image/random.png" height="400">
+<img src="Docs/project_image/random.png" height="400">
 </details>
 
 <details>
 <summary>단체 코스 추천</summary>  
-<img src="docs/project_image/group2.png" height="400">
-<img src="docs/project_image/group1.png" height="400">
+<img src="Docs/project_image/group2.png" height="400">
+<img src="Docs/project_image/group1.png" height="400">
 </details>
 
 <details>
 <summary>커뮤니티</summary>  
-<img src="docs/project_image/community.png" height="400">
+<img src="Docs/project_image/community.png" height="400">
 </details>
 
 ## 구현사항
